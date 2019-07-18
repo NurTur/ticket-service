@@ -1,0 +1,1 @@
+SELECT `GetTopTicketId`(?) AS `id`;

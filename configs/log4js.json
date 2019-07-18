@@ -1,0 +1,18 @@
+{	
+	"levels" : {
+		"[all]": "DEBUG"
+	},
+	"appenders": [
+		{
+			"type"  : "console",
+			"level" : "INFO"
+		},
+		{
+			"type"       : "file",
+			"filename"   : "./logs/log.log",
+			"level"      : "ALL",
+			"maxLogSize" : 204800,
+			"backups"    : 50
+		}
+	]
+}

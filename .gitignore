@@ -1,0 +1,9 @@
+.imdone/*
+node_modules/*
+tmp/*
+
+lib-cov
+*.seed
+*.log
+*.out
+*.pid
