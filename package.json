@@ -34,7 +34,7 @@
     "mysql2": "^1.4.2",
     "nodejs-utils": "^1.0.14",
     "passthrough-counter": "^1.0.0",
-    "sequelize": "^4.38.0",
+    "sequelize": "^5.15.1",
     "sexy-require": "^1.1.1"
   },
   "devDependencies": {
