@@ -30,7 +30,7 @@
     "koa-bodyparser": "^3.2.0",
     "koa-json": "^2.0.2",
     "koa-router": "^7.0.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "mysql2": "^1.4.2",
     "nodejs-utils": "^1.0.14",
     "passthrough-counter": "^1.0.0",
